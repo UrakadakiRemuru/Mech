@@ -1,0 +1,4 @@
+function T_xb_t=T_xb_t(t)
+frot
+T_xb_t= [T_xb_t t+2.52];
+end
